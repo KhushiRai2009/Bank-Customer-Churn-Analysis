@@ -15,3 +15,5 @@ An interactive Power BI dashboard designed to analyze customer churn patterns an
 
 ## 🧠 Summary
 This project provides a data-driven view of customer churn trends, helping businesses understand why customers leave and how to improve retention.
+
+<img width="896" height="500" alt="image" src="https://github.com/user-attachments/assets/1ff4ef94-25b7-4be1-91c8-d50249a1d662" />
